@@ -122,11 +122,11 @@ const config = {
             items: [
               {
                 label: "Developer Guide",
-                to: "/docs/developer/developer",
+                to: "/docs/developer",
               },
               {
                 label: "Product Guide",
-                to: "/docs/product/product",
+                to: "/docs/product",
               },
             ],
           },

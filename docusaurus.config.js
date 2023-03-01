@@ -61,14 +61,29 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "before-start",
+            docId: "about",
             position: "left",
-            label: "Afet.org",
+            label: "About",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            type: "doc",
+            docId: "developer/developer",
+            position: "left",
+            label: "Developer Guide",
+          },
+          {
+            type: "doc",
+            docId: "product/product",
+            position: "left",
+            label: "Product",
+          },
           {
             href: "https://github.com/acikkaynak",
             label: "GitHub",
+            position: "right",
+          },
+          {
+            type: "localeDropdown",
             position: "right",
           },
         ],
@@ -80,7 +95,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Afet.org",
+                label: "Developer Guide",
                 to: "/docs/before-start",
               },
             ],

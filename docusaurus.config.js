@@ -18,8 +18,34 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "tr"],
+    path: "i18n",
+    localeConfigs: {
+      en: {
+        label: "English",
+        direction: "ltr",
+        htmlLang: "en-US",
+        calendar: "gregory",
+        path: "en",
+      },
+      fa: {
+        label: "فارسی",
+        direction: "rtl",
+        htmlLang: "fa-IR",
+        calendar: "persian",
+        path: "fa",
+      },
+      tr: {
+        label: "Türkçe",
+        direction: "ltr",
+        htmlLang: "tr-TR",
+        calendar: "gregory",
+        path: "tr",
+      },
+    },
   },
+  onBrokenLinks: "log",
+  onDuplicateRoutes: "log",
 
   presets: [
     [
@@ -96,7 +122,11 @@ const config = {
             items: [
               {
                 label: "Developer Guide",
-                to: "/docs/before-start",
+                to: "/docs/developer/developer",
+              },
+              {
+                label: "Product Guide",
+                to: "/docs/product/product",
               },
             ],
           },

@@ -3,7 +3,7 @@ displayed_sidebar: developerSidebar
 sidebar_position: 1
 ---
 
-# AYA Projects
+# Projects
 
 We are volunteers who are already working professionally in the software industry. We came together to develop open-source technologies for the use of official institutions and non-governmental organizations after the earthquake that occurred in Kahramanmaraş and affected 10 provinces.
 
@@ -13,66 +13,28 @@ Currently, over 23,000 volunteer software industry employees on our [Discord](ht
 
 
 
-[acikkaynak/acikkaynak-website](acikkaynak/acikkaynak-website)
+[acikkaynak/deprem-io-backend](https://github.com/acikkaynak/deprem-io-backend)
 
-[acikkaynak/deprem-yardim-data](acikkaynak/deprem-yardim-data)
+[acikkaynak/deprem-yardim-links](https://github.com/acikkaynak/deprem-yardim-links)
 
-[acikkaynak/deprem-yardim-frontend](acikkaynak/deprem-yardim-frontend)
+[acikkaynak/depremadres-intent-classification-v0](https://github.com/acikkaynak/depremadres-intent-classification-v0)
 
-[acikkaynak/deprem-yardim-backend-go](acikkaynak/deprem-yardim-backend-go)
+[acikkaynak/depremadres-reverse-geocoder](https://github.com/acikkaynak/depremadres-reverse-geocoder)
 
-[acikkaynak/deprem-yardim-whatsapp](acikkaynak/deprem-yardim-whatsapp)
+[acikkaynak/discord-it-yardim-bot](https://github.com/acikkaynak/discord-it-yardim-bot)
 
-[acikkaynak/ben-iyiyim-frontend](acikkaynak/ben-iyiyim-frontend)
+[acikkaynak/YardimAGI](https://github.com/acikkaynak/YardimAGI)
 
-[acikkaynak/deprem-yardim-projesi](acikkaynak/deprem-yardim-projesi)
+[acikkaynak/ben-iyiyim](https://github.com/acikkaynak/ben-iyiyim)
 
-[acikkaynak/afet-yardim-twitter-bot](acikkaynak/afet-yardim-twitter-bot)
+[acikkaynak/deprem-io](https://github.com/acikkaynak/deprem-io)
 
-[acikkaynak/yardim-agi-firebase](acikkaynak/yardim-agi-firebase)
+[acikkaynak/afet-yardim-discord-bot](https://github.com/acikkaynak/afet-yardim-discord-bot)
 
-[acikkaynak/yardim-agi-flutter](acikkaynak/yardim-agi-flutter)
+[acikkaynak/deprem-yardim-address-api](https://github.com/acikkaynak/deprem-yardim-address-api)
 
-[acikkaynak/deprem-yardimi](acikkaynak/deprem-yardimi)
+[acikkaynak/eczane-frontend](https://github.com/acikkaynak/eczane-frontend)
 
-[acikkaynak/afet-yardim-telegram-bot](acikkaynak/afet-yardim-telegram-bot)
+[acikkaynak/eczane-backend](https://github.com/acikkaynak/eczane-backend)
 
-[acikkaynak/afet-yardim-twitch-bot](acikkaynak/afet-yardim-twitch-bot)
-
-[acikkaynak/deprem-yardim-cloud-infra](acikkaynak/deprem-yardim-cloud-infra)
-
-[acikkaynak/kayip-cocuk-frontend](acikkaynak/kayip-cocuk-frontend)
-
-[acikkaynak/kayip-cocuk-backend](acikkaynak/kayip-cocuk-backend)
-
-[acikkaynak/deprem-yardim-map-iframe](acikkaynak/deprem-yardim-map-iframe)
-
-[acikkaynak/deprem-io-frontend](acikkaynak/deprem-io-frontend)
-
-[acikkaynak/deprem-io-backend](acikkaynak/deprem-io-backend)
-
-[acikkaynak/deprem-yardim-links](acikkaynak/deprem-yardim-links)
-
-[acikkaynak/depremadres-intent-classification-v0](acikkaynak/depremadres-intent-classification-v0)
-
-[acikkaynak/depremadres-reverse-geocoder](acikkaynak/depremadres-reverse-geocoder)
-
-[acikkaynak/discord-it-yardim-bot](acikkaynak/discord-it-yardim-bot)
-
-[acikkaynak/YardimAGI](acikkaynak/YardimAGI)
-
-[acikkaynak/ben-iyiyim](acikkaynak/ben-iyiyim)
-
-[acikkaynak/deprem-io](acikkaynak/deprem-io)
-
-[acikkaynak/afet-yardim-discord-bot](acikkaynak/afet-yardim-discord-bot)
-
-[acikkaynak/deprem-yardim-address-api](acikkaynak/deprem-yardim-address-api)
-
-[acikkaynak/eczane-frontend](acikkaynak/eczane-frontend)
-
-[acikkaynak/eczane-backend](acikkaynak/eczane-backend)
-
-[acikkaynak/eczane-admin-frontend](acikkaynak/eczane-admin-frontend)
-
-
+[acikkaynak/eczane-admin-frontend](https://github.com/acikkaynak/eczane-admin-frontend)

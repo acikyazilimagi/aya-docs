@@ -95,7 +95,7 @@ const config = {
             type: "doc",
             docId: "projects/about",
             position: "left",
-            label: "Projects",
+            label: "Afet.org",
           },
           {
             href: "https://github.com/acikkaynak",

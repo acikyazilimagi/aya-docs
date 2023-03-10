@@ -1,10 +1,7 @@
 ---
-id: pm_onboarding
-title: Onboarding
-// displayed_sidebar: developerSidebar
-sidebar_position: 2
----
 
+title: Onboarding
+---
 # Introduction
 
 This onboarding document is designed to help you quickly understand what the project is about, how we build the product, how we manage tickets and issues, how we communicate, and where you can find important documents. Project Description
@@ -60,7 +57,7 @@ Each issue type has its own issue template which should be respected by the repo
 
 # Issue Workflow
 
-![](../../../../../static/img/issue_workflow.png)
+![](../../../../static/img/issue_workflow.png)
 
 
 **Open:** This status is applied when a new issue is created and is still being evaluated by the check force team. The check force team reviews issues with the Open status and ensures that they meet our standards. They then remove the unchecked label from the issue. The product manager is also responsible for reviewing and approving Open issues by checking and validating the issue and adding the Approved label.
@@ -82,4 +79,3 @@ It is important to follow this workflow to ensure that our issues are properly t
 The product design team uses Figma as our main design tool. You can easily find both Desktop & Mobile designs in the below Figma links.
 
 [Figma Design Link](https://www.figma.com/file/sctw6xtcdoFOfmE0gC97Ft/Afet-Harita---Afetharita.com?node-id=134%3A9010&t=uKRDgyHvTyTuB8iN-0)
-

@@ -89,19 +89,13 @@ const config = {
             type: "doc",
             docId: "about",
             position: "left",
-            label: "About",
+            label: "About AYA",
           },
           {
             type: "doc",
-            docId: "developer/developer",
+            docId: "projects/about",
             position: "left",
-            label: "Developer Guide",
-          },
-          {
-            type: "doc",
-            docId: "product/product",
-            position: "left",
-            label: "Product",
+            label: "Afet.org",
           },
           {
             href: "https://github.com/acikkaynak",
@@ -121,8 +115,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Developer Guide",
-                to: "/docs/developer",
+                label: "Projects",
+                to: "/docs/projects",
               },
               {
                 label: "Product Guide",
